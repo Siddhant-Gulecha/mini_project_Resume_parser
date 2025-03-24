@@ -8,6 +8,9 @@ A Python-based Resume Parser that extracts key details from PDF and DOCX resumes
 - Uses **spaCy NLP** for entity recognition.
 - Simple **command-line interface** for easy usage.
 
+## AI-Assisted Development
+This project was efficiently developed using AI-powered coding assistance, which helped streamline the coding process, optimize performance, and accelerate development. Leveraging AI for software development enabled rapid prototyping and enhanced problem-solving.
+
 ## Installation
 ### Prerequisites
 Make sure you have **Python 3.11+** installed.
@@ -59,4 +62,3 @@ Skills: Python, Machine Learning, Data Science
 
 ## License
 This project is licensed under the MIT License.
-
